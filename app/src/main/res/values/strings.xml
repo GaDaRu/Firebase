@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PruebaFireBase</string>
+    <string name="pref_file">com.example.pruebafirebase.File</string>
+    <string name="default_web">I2Rug3sE4sP4qkNdDIYpblnr8S63</string>
+    <string name="facebook_app_id">2818180198465649</string>
+    <string name="fb_login_protocol_scheme">fb2818180198465649</string>
+</resources>
